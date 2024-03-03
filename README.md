@@ -9,8 +9,6 @@ This is a simple implementation of a JWKS (JSON Web Key Set) server using Python
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
